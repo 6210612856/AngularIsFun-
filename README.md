@@ -9,3 +9,4 @@ Section 1 (01/16/2022 - ???)
 - got new resource for learning bout Angular
 - and yes.. haven't check one of em yet.
 - full of homework. trying to prepare myself 
+- less playing game. more practice. <== hope so
